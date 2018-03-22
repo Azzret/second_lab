@@ -15,6 +15,7 @@ C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\D
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.CoreCompileInputs.cache
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
+<<<<<<< HEAD
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\bin\Debug\43-TextToHTML.exe
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\bin\Debug\43-TextToHTML.pdb
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csprojResolveAssemblyReference.cache
@@ -24,3 +25,7 @@ C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-Te
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.CoreCompileInputs.cache
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
 C:\Users\loved\OneDrive\Документы\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
+=======
+C:\Users\Acer\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
+C:\Users\Acer\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
+>>>>>>> b2ff78a9df339d3a697bcb2ee96bc06a1174dd0d
