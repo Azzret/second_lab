@@ -6,3 +6,12 @@ D:\Программы лб\3 курс\6 семестр\Паттерны ПО\43-
 D:\Программы лб\3 курс\6 семестр\Паттерны ПО\43-TextToHTML\43-TextToHTML\obj\x86\Debug\_43_TextToHTML.Form1.resources
 D:\Программы лб\3 курс\6 семестр\Паттерны ПО\43-TextToHTML\43-TextToHTML\obj\x86\Debug\_43_TextToHTML.Properties.Resources.resources
 D:\Программы лб\3 курс\6 семестр\Паттерны ПО\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.GenerateResource.Cache
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\bin\Debug\43-TextToHTML.exe
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\bin\Debug\43-TextToHTML.pdb
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csprojResolveAssemblyReference.cache
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\_43_TextToHTML.Form1.resources
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\_43_TextToHTML.Properties.Resources.resources
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.GenerateResource.Cache
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.CoreCompileInputs.cache
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
+C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
