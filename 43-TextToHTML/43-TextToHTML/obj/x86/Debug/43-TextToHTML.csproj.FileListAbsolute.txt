@@ -15,3 +15,5 @@ C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\D
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.csproj.CoreCompileInputs.cache
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
 C:\Users\Azret\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
+C:\Users\Acer\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.exe
+C:\Users\Acer\Documents\GitHub\second_lab\43-TextToHTML\43-TextToHTML\obj\x86\Debug\43-TextToHTML.pdb
