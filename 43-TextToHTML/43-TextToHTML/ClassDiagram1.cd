@@ -29,7 +29,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="_43_TextToHTML.Main1">
-    <Position X="7.25" Y="0.5" Width="1.5" />
+    <Position X="5.75" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>gAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Main1.cs</FileName>
@@ -43,20 +43,20 @@
     </TypeIdentifier>
   </Class>
   <Class Name="_43_TextToHTML.Program">
-    <Position X="1" Y="5.25" Width="1.5" />
+    <Position X="1" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_43_TextToHTML.Properties.Resources">
-    <Position X="7.25" Y="2.75" Width="1.5" />
+    <Position X="8.25" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="_43_TextToHTML.Properties.Settings">
-    <Position X="3" Y="4.75" Width="1.5" />
+    <Position X="3.25" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
